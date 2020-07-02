@@ -1,0 +1,6 @@
+chains/
+*~
+*.prof
+*.ini
+*out
+
